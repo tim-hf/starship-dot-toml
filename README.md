@@ -16,4 +16,4 @@
 
 ### How do I get set up? ###
 
-* [official docs](https://starship.rs/)
+* [official docs](https://starship.rs/guide/#%F0%9F%9A%80-installation)
