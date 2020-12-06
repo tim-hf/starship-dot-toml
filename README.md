@@ -1,6 +1,6 @@
 # README #
 
-* Starship command prompt configuration file. 
+### Starship command prompt configuration file. ###
 
 ![1](https://user-images.githubusercontent.com/75028000/101291114-2026a300-380f-11eb-9bf4-04f39b75ba04.jpg)
 *standard view*
